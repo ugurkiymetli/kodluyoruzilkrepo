@@ -22,4 +22,4 @@ Katılımınızı bekleriz. Aile salonumuz vardır :D
 
 
 ## License
-[MIT](https://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT/)
